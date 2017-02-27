@@ -7,7 +7,7 @@ import javax.swing.*;
  */
 public class HelloWorld extends JFrame implements Bla {
     public static void main(String[] args) {
-        JButton button = new JButton();
+        JFrame jrame = new JFrame();
 
     }
 }
